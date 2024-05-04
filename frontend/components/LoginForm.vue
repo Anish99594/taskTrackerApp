@@ -68,7 +68,7 @@ import axios from 'axios';
         }
         console.log(data);
         try{
-            const res = await axios.post('http://localhost:3001/login',this.$data);
+            const res = await axios.post('https://task-tracker-app-backend.vercel.app/login',this.$data);
             const token = res.data.token
             localStorage.setItem('jwtToken', token);
             this.$store.commit('setAuthenticated', true);
