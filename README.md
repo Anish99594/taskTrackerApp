@@ -1,14 +1,14 @@
 Frontend (Vue.js)
-  1. GitHub Repository URL: 
-  2. Netlify Deployed URL: 
+  1. GitHub Repository URL: https://github.com/Anish99594/taskTrackerApp/tree/main/frontend
+  2. Netlify Deployed URL: https://task-tracker-app-frontend.vercel.app/
 Instructions to Run:
   1. Clone the repository from GitHub.
   2. Navigate to the frontend directory.
   3. Install dependencies using npm install.
   4. Run the development server using npm run serve.
 Backend (Nest.js)
-  1. GitHub Repository URL: [Insert GitHub URL here]
-  2. Heroku Deployed URL: [Insert Heroku URL here]
+  1. GitHub Repository URL: 
+  2. Heroku Deployed URL: 
 Instructions to Run:
   1. Clone the repository from GitHub.
   2. Navigate to the backend directory.
