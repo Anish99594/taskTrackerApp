@@ -72,7 +72,7 @@
         }
         console.log(data);
         try{
-            const res = await axios.post('http://localhost:3001/signup',this.$data )
+            const res = await axios.post('https://task-tracker-app-backend.vercel.app/signup',this.$data )
             .then((res)=>{
                 this.$router.push('/login');
             }).catch((e)=>{
